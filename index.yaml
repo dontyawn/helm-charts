@@ -3,13 +3,13 @@ entries:
   shkeeper:
   - apiVersion: v2
     appVersion: 1.19.0
-    created: "2025-07-01T21:32:51.947433599Z"
+    created: "2025-07-01T21:36:02.250840461Z"
     description: A self-hosted and open-source cryptocurrency payment processor (Custom
       Fork)
-    digest: 8817c24351ada86c88d4a630623541fe576aec32f37ea9ad73c4835ec1c7817f
+    digest: dc6b3d561676829591a0247fc1500c39f93bfe93eef47eca29387a62d8e561fa
     name: shkeeper
     type: application
     urls:
     - https://dontyawn.github.io/helm-charts/shkeeper-1.4.89.tgz
     version: 1.4.89
-generated: "2025-07-01T21:32:51.928512183Z"
+generated: "2025-07-01T21:36:02.21377863Z"
