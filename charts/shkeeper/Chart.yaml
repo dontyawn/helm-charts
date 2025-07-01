@@ -1,6 +1,6 @@
 apiVersion: v2
 name: shkeeper
-description: A self-hosted and open-source cryptocurrency payment processor
+description: A self-hosted and open-source cryptocurrency payment processor (Custom Fork)
 
 # A chart can be either an 'application' or a 'library' chart.
 #
