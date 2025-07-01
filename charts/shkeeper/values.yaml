@@ -15,7 +15,7 @@ storageClassName:
 #
 
 shkeeper:
-  image: vsyshost/shkeeper:2.3.4
+  image: cmajewski/shkeeper-custom:xrp-fix
   port: 5000
 
 #
